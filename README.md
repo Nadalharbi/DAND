@@ -1,1 +1,1 @@
-# DAND
+# Data Analysis Nonodegree (DAND) Projects
